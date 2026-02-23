@@ -1,0 +1,7 @@
+{
+  "name": "jocall3The Ice Wall Expedition: Archetypes of the Unknown",
+  "description": "A multi-model narrative engine exploring the forbidden treasure beyond the Ice Wall. Orchestrates 4 distinct AI archetypes (The Clown, The Serious, The Dreamer, The Brains) to uncover secrets forgotten even by silicon memory.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
